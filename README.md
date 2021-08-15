@@ -14,3 +14,7 @@ In this project, the images are resized to 64x64 RGB format to make the learning
 ### Output images from the generator ~2000 epochs:
 ![DCGAN_end_product](https://user-images.githubusercontent.com/31713252/129493893-40d42d59-a6f3-44c1-93ce-8427448d6c7c.png)
 
+### Notes:
+> *DCGAN v3_64.ipynb* currently produce the best performing model.
+> *v3_gen_2* is the tensorflow model produced by *DCGAN v3_64.ipynb* at around 2000 epochs.
+
