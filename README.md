@@ -8,8 +8,8 @@ In this project, the images are resized to 64x64 RGB format to make the learning
 ![DCGAN__main](https://user-images.githubusercontent.com/31713252/129493865-beda77b6-53fd-4120-a829-2f8e9f75c8bd.jpg)
 
 ### After processing input images:
-![DCGAN__resized-2](https://user-images.githubusercontent.com/31713252/129493883-8ef9be3a-1315-49de-b372-97af7ad08e67.png)
-![DCGAN__resized-1](https://user-images.githubusercontent.com/31713252/129493884-24419472-22b2-4e38-b015-ff513117becc.png)
+![DCGAN__input](https://user-images.githubusercontent.com/31713252/132143941-8871fbe8-1e1c-4ff2-a885-18febfd428de.png)
+
 
 ### Output images from the generator ~2000 epochs:
 ![DCGAN_end_product](https://user-images.githubusercontent.com/31713252/129493893-40d42d59-a6f3-44c1-93ce-8427448d6c7c.png)
